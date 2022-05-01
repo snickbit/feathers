@@ -1,6 +1,5 @@
 {
 	"name": "@snickbit/feathers-logs",
-	"version": "0.1.13",
 	"license": "MIT",
 	"main": "./dist/index.js",
 	"module": "./dist/index.mjs",
@@ -25,8 +24,8 @@
 		"watch": "npm run build --watch"
 	},
 	"dependencies": {
-		"@snickbit/feathers-logger": "^0.1.13",
-		"@snickbit/feathers-mongo": "^0.0.67"
+		"@snickbit/feathers-logger": "^undefined",
+		"@snickbit/feathers-mongo": "^undefined"
 	},
 	"devDependencies": {
 		"@feathersjs/feathers": "^5.0.0-pre.18",

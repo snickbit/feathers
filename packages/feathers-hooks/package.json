@@ -1,7 +1,6 @@
 {
 	"name": "@snickbit/feathers-hooks",
 	"description": "Dynamic hook loader for Feathers",
-	"version": "0.0.14",
 	"license": "MIT",
 	"main": "./dist/index.js",
 	"module": "./dist/index.mjs",
